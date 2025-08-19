@@ -1,25 +1,18 @@
-# IBM HR Analytics – Employee Attrition
+# IBM HR Analytics: Employee Attrition & Performance
 
-## 📖 Project Overview
-This project analyzes IBM’s fictional HR dataset to identify factors leading to **employee attrition**. The goal is to uncover trends that HR teams can use to improve employee retention.
+## Overview  
+This project investigates HR data to identify patterns behind employee attrition and performance. By analyzing demographic, job satisfaction, and compensation data, it provides insights to reduce turnover and improve retention.
 
-## 🔍 Key Questions
-- What employee demographics are most at risk of leaving?  
-- Do job role, salary, and tenure strongly influence attrition?  
-- Which HR strategies could reduce turnover?  
+## Key Insights  
+- Younger employees and those in entry-level roles showed higher attrition rates.  
+- Lower job satisfaction and salary hikes strongly correlated with leaving.  
+- The project highlights actionable strategies for HR teams to retain top talent.  
 
-## 🛠️ Tools & Methods
-- **Python (Pandas, Scikit-learn)** for data analysis and modeling  
-- **Tableau** for interactive visualizations  
+## Tools Used  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Tableau for dashboard creation  
 
-## 📊 Key Insights
-- **Age**: Attrition is highest among younger employees (20–35).  
-- **Job Role**: Sales and technical roles show the most turnover.  
-- **Work-Life Balance**: Poor balance correlates strongly with attrition.  
-
-## 🌐 Links
-- 📂 [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
-- 📓 [Notebook](https://www.kaggle.com/code/egaoctavina/ibm-hr-analytics-employee-attrition-performance)  
-- 📊 [Tableau Dashboard](https://public.tableau.com/views/IBMHRAnalyticsEmployeeAttritionPerformance_17555806602410/HRAttritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-
----
+## Links  
+- [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
+- [Analysis Notebook](https://www.kaggle.com/code/egaoctavina/ibm-hr-analytics-employee-attrition-performance)  
+- [Visualization Dashboard](https://public.tableau.com/views/IBMHRAnalyticsEmployeeAttritionPerformance_17555806602410/HRAttritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
